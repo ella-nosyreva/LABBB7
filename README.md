@@ -24,7 +24,7 @@
 ### Блок-схема
 <img width="379" height="762" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/b572d0f6-f953-4f88-b36b-3241058a0903" />
 
-## 2. Реализация программы
+## 2. Реализация программы убрать код
 
 ```c
 #define _CRT_SECURE_NO_WARNINGS
