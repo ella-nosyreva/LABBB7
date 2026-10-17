@@ -132,7 +132,7 @@ int main()
 
         default:
             printf("Неизвестный символ\n");
-            break;
+            return 1;
 
         }
 
