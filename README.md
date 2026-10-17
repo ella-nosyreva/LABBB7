@@ -22,7 +22,7 @@
 8. **Конец**
 
 ### Блок-схема
-<img width="379" height="762" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/b572d0f6-f953-4f88-b36b-3241058a0903" />
+<img width="462" height="1433" alt="Диаграмма7 drawio" src="https://github.com/user-attachments/assets/e5e720b0-7386-44d2-8970-0f26eb3f065c" />
 
 ## 2. Реализация программы убрать код
 
@@ -159,12 +159,12 @@ int main()
 ## 3. Результаты работы программы
 **Пример 1: Ввод века XXI**
 
-<img width="700" height="110" alt="Снимок экрана 2026-10-17 160841" src="https://github.com/user-attachments/assets/e4e83cef-e90a-4bb8-8798-3deabbc572e4" />
+<img width="350" height="55" alt="Снимок экрана 2026-10-17 160841" src="https://github.com/user-attachments/assets/e4e83cef-e90a-4bb8-8798-3deabbc572e4" />
 
 
 **Пример 3: Ввод некорректного значения (7)**
 
-<img width="639" height="118" alt="image" src="https://github.com/user-attachments/assets/12ed8735-1ea4-4e54-9174-6a4bfb87b469" />
+<img width="319" height="59" alt="image" src="https://github.com/user-attachments/assets/12ed8735-1ea4-4e54-9174-6a4bfb87b469" />
 
 
 ## 4. Информация о разработчике
